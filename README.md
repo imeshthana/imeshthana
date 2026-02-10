@@ -56,5 +56,3 @@ I am passionate about transforming ideas into scalable, real-world products and 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
-
----
