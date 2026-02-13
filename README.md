@@ -1,22 +1,22 @@
 # Hi, I'm Imesh 👋
 
-🚀 Software Engineer | 🤖 AI Solutionist | DevOps & Blockchain Enthusiast
+Software Engineer | AI Solutionist | DevOps & Blockchain Enthusiast
 
 I am a Software Engineer and AI Solutionist specializing in building impactful digital solutions across web and mobile applications, blockchain systems, and AI-powered platforms. 
 I am passionate about transforming ideas into scalable, real-world products and continuously exploring emerging technologies to drive innovation and long-term success.
 
 ---
 
-## 🔍 What I’m working on
-- 📱 Mobile & Web apps (Flutter, React, Next.js, React Native)
-- 🧠 AI systems & ML pipelines (TensorFlow, PyTorch, Vector DBs)
-- 🔗 Blockchain & smart contracts
-- ⚙️ Backend APIs & system architecture
-- ☁️ Cloud-based, containerized deployments
+## What I’m working on
+-  Mobile & Web apps (Flutter, React, Next.js, React Native)
+-  AI systems & ML pipelines (TensorFlow, PyTorch, Vector DBs)
+-  Blockchain & smart contracts
+-  Backend APIs & system architecture
+-  Cloud-based, containerized deployments
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
