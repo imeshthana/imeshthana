@@ -26,8 +26,6 @@ I am passionate about transforming ideas into scalable, real-world products and 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 
----
-
 ### **Frameworks & Libraries**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
@@ -37,15 +35,11 @@ I am passionate about transforming ideas into scalable, real-world products and 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows)
 
----
-
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Vector DB](https://img.shields.io/badge/VectorDB-5A5A5A?style=flat)
-
----
 
 ### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
