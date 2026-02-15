@@ -32,6 +32,8 @@ I am passionate about transforming ideas into scalable, real-world products and 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows)
 
